@@ -2,7 +2,7 @@ from tkinter import *
 from tkinter import filedialog, messagebox
 import pytesseract as tess
 
-tess.pytesseract.tesseract_cmd = r'C:\Users\Helios 300\AppData\Local\Programs\Tesseract-OCR\tesseract.exe'
+tess.pytesseract.tesseract_cmd = r''
 from PIL import Image, ImageOps, ImageFilter
 from ttkbootstrap import Style
 from tkinter import ttk
